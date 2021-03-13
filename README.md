@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋 My name is Dayo Asaolu
+#### checkout my website - [me](https://dayoasaolu.com)
+- I'm a recent graduate from the Memorial University Of Newfoundland with a BSc in Computer Science.
+- I am interested in software dev, data science, visual computing, machine learning
+
+### Languages and frameworks
+![Reactjs](https://img.shields.io/badge/-Reactjs-ff69b4) ![Redux](https://img.shields.io/badge/-Redux-blueviolet) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-red)
+
+### Editor & Cloud technolgies
+![VsCode](https://img.shields.io/badge/-VSCODE-brightgreen) ![AWS](https://img.shields.io/badge/-AWS-orange) ![heroku](https://shields.io/badge/-heroku-blueviolet) ![netlify](https://shields.io/badge/-netlify-darkcyan)
 
 <!--
 **DayoAsaolu/DayoAsaolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
