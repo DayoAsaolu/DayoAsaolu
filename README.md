@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dayo
+### Hi there 👋 I'm dayo
 #### checkout my website - [me](https://dayoasaolu.com)
 - I'm a recent graduate from the Memorial University Of Newfoundland with a BSc in Computer Science.
 - I am interested in software dev, data science, visual computing, machine learning
