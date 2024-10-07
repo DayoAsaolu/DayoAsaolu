@@ -4,7 +4,7 @@
 - I am interested in software dev, visual computing, machine learning, data science
 
 ### Languages and frameworks
-![Reactjs](https://img.shields.io/badge/-Reactjs-ff69b4) ![Redux](https://img.shields.io/badge/-Redux-blueviolet) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-red)
+![Reactjs](https://img.shields.io/badge/-Reactjs-ff69b4) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue) ![Java](https://img.shields.io/badge/-Java-brightgreen) ![Python](https://img.shields.io/badge/-Python-yellow)
 
 ### Editor & Cloud technolgies
 ![VsCode](https://img.shields.io/badge/-VSCODE-brightgreen) ![AWS](https://img.shields.io/badge/-AWS-orange) ![heroku](https://shields.io/badge/-heroku-blueviolet) ![netlify](https://shields.io/badge/-netlify-darkcyan)
